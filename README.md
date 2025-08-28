@@ -1,5 +1,5 @@
 # week5_python_assignment
-# 🦸‍♂️ Superhero and 🚗 Vehicle Programs
+# 🦸‍♂️ Classes and 🚗 polymorphism programs
 
 This document explains two Python programs: **`class.py`** (Assignment 1) and **`poly.py`** (Activity 2).  
 Both demonstrate **object-oriented programming (OOP)** concepts, with a focus on **minimal code** to meet the requirements.
